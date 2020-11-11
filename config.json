@@ -1,0 +1,8 @@
+{
+    "api_port": 5002,
+    "daemon_host": "127.0.0.1",
+    "daemon_port": 27855,
+    "is_daemon_ssl": false,
+    "coin_decimals": 1000000000000,
+    "api_data_update_interval": 2500
+}

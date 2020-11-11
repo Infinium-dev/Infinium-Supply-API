@@ -1,0 +1,24 @@
+{
+    "name": "Infinium-supply-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "supplyapi.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node supplyapi.js"
+    },
+    "keywords": [
+      "Infinium",
+      "Total Supply Api"
+    ],
+    "author": "Infinium-dev",
+    "license": "MIT",
+    "dependencies": {
+      "console-stamp": "^0.2.9",
+      "cors": "^2.8.5",
+      "express": "^4.17.1",
+      "fs": "0.0.1-security",
+      "request-json": "^0.6.5"
+    }
+  }
+  
